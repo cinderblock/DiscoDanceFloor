@@ -1,6 +1,6 @@
 
 # List of CPP file basenames to build
-CPP = FloorNode MessageBuffer TestMaster ComparatorCapSense
+CPP = FloorNode MessageBuffer TestMaster ComparatorCapSense Board
 
 # Add required libraries to the list of files ot build
 CPP += libraries/CapacitiveSensor/CapacitiveSensor
